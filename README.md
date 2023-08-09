@@ -10,4 +10,4 @@ To use this application you'll first want to clone my GitHub Repository to your 
 
 ## Tutorial Video
 The following video demonstrates how to properly use this application, while also showcasing it's functionality on Insomnia. 
-[Social Network API Routes Walkthrough on Insomina](https://drive.google.com/file/d/1LKJyMdBHFuSZCPcAZRuX4DrD0er3m74d/view)
+[Social Network API Routes Walkthrough on Insomina](https://drive.google.com/file/d/1mIpV314qJ11UJcqK3zFczCp_OJiDbbcH/view)
