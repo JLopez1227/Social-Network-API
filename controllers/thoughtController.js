@@ -66,11 +66,11 @@ module.exports = {
         { new: true }
       );
 
-      // if (!user) {
-      //   return res.status(404).json({
-      //     message: 'Thought deleted, but no users found',
-      //   });
-      // }
+      if (!user) {
+        return res.status(404).json({
+          message: 'Thought deleted, but no users found',
+        });
+      }
 
       res.json({ message: 'Thought successfully deleted' });
     } catch (err) {
